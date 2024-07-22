@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natnael</h1>
 <h3 align="center">MERN stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [natnaelketema.vercel.app](<a href="https://natnaelketema.vercel.app" target="blank"></a>)
+- 👨‍💻 All of my projects are available at <a href="https://natnaelketema.vercel.app" target="blank">natnaelketema.vercel.app</a>
 
 - 💬 Ask me about **All about web development**
 
