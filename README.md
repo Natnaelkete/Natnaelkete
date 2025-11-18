@@ -8,7 +8,7 @@ I'm Natnael, a full stack/MERN developer passionate about crafting dynamic web a
 
 | Category        | Skills        |
 |-----------------|---------------|
-| Frameworks | Express, React, tailwindcss, botstrap5  |
+| Frameworks | Express, React js, Next js, Vue js |
 | Languages | Javascript, python |
 | Styling | Css, tailwindcss, botstrap 5 |
 | Database | Mongoose, Postgress |
@@ -16,7 +16,7 @@ I'm Natnael, a full stack/MERN developer passionate about crafting dynamic web a
 
 ## :books: Currently Learning
 
-Next.js
+DevOps
 
 <img src="./img/lineBar.png" width="100%" height="8px"/>
 
